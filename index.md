@@ -25,5 +25,5 @@ Prviously invovled in the the devolpement of the video game Castle Torgeath: Dec
 
 # Privious Projects and Programs
 
-# Contact
+# Contact info
 
