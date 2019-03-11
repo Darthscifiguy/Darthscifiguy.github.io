@@ -3,7 +3,7 @@
 Hi, I am Richard and welcome to my website! I am a second year computer science student at the University of North Carolina. I enjoy tennis, video games, reading, working out, and hanging out with people. I'm aiming to become a video game developer and hope to create amazing programs in the future.
 
 This is me:
-![alt text](https://github.com/Darthscifiguy/Darthscifiguy.github.io/blob/master/picture.jpg)
+https://github.com/Darthscifiguy/Darthscifiguy.github.io/blob/master/picture.jpg
 
 # Resume
 
