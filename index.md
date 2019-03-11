@@ -7,10 +7,6 @@ This is me:
 
 # Resume
 
-*italic Temp typed out resume in github* 
-
-I have privious work experience, am a member of verious organizations, and have the skillz.
-
 ### Tools and programing language experience
 * Proficient in C++, C#, BB code, and Java programing languages
 * Experienced in Affinity Photo, Vegas 11, Microsoft Word, Microsoft Excel, Unity 4x, and Blender.
@@ -24,9 +20,9 @@ Prviously invovled in the the devolpement of the video game Castle Torgeath: Dec
 ### Leadership experience
 * Current member of Alpha Lambda Delta Honor society.
 * Current secretary of Science Fiction Fantasy Federation 
-* Currently a member 
-
-# Privious Projects and Programs
+* Was awarded the UNCG Chancellor's Scholarship
 
 # Contact info
 
+Email: rdabrams@uncg.edu
+Twitter: @darthscifiguy
